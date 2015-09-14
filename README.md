@@ -29,9 +29,9 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/index.html`
-  * `dist/scripts/main.js`
-  * `dist/bower.json`
+  * `index.html`
+  * `scripts/main.js`
+  * `package.json`
 
 ### Requirements
 
@@ -44,6 +44,9 @@ Replicate the following behavior using jQuery.
 
 ## Hard Mode
 Modify your code so that the currently selected tab is highlighted - denoting which piece of content you are viewing.
+
+## Nightmare Mode
+Modify your code such that your tab buttons don't use ids or classes and so that when the page refreshes the previously selected tab remains selected (ie. it doesn't reset back to the first tab).
 
 
 ## Notes
