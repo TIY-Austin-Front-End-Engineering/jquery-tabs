@@ -46,7 +46,7 @@ Replicate the following behavior using jQuery.
 Modify your code so that the currently selected tab is highlighted - denoting which piece of content you are viewing.
 
 ## Nightmare Mode
-Modify your code such that your tab buttons don't use ids or classes and so that when the page refreshes the previously selected tab remains selected (ie. it doesn't reset back to the first tab).
+Modify your code such that when the page refreshes the previously selected tab remains selected (ie. it doesn't reset back to the first tab).
 
 
 ## Notes
